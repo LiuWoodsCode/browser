@@ -1,5 +1,6 @@
 ![FOSS Browser logo](https://github.com/scoute-dich/browser/blob/master/graphics/featuresGrafic.png)
 
+Notice: This project is tested with **BrowserStack**.
 "FOSS Browser" is a fully free (as in freedom) open source Android browser: privacy-friendly with a modern user interface. _- Your privacy - your data._
 
 ----
